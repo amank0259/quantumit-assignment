@@ -10,3 +10,16 @@
     --text-color: #000;
 }
 
+nav{
+    height: 100px;
+}
+
+nav .logo{
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+nav .nav-item a{
+    color: var(--primary-color);
+    font-weight: 500;
+}
